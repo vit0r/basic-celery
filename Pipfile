@@ -9,9 +9,9 @@ ipython = "*"
 Pygments = ">=2.7.4"
 
 [dev-packages]
-black
-isort
-pytest
+black = "*"
+isort = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.6"
